@@ -19,7 +19,7 @@ APP_ID = int(os.environ.get("APP_ID", "24865057"))
 API_HASH = os.environ.get("API_HASH", "a45372ac22649e134c7871ab3125bfb1")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001931911990"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001821071259"))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "5557955876 5385426054"))
@@ -32,7 +32,7 @@ DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Flamefilestore: acckerman
 DB_NAME = os.environ.get("DATABASE_NAME", "Flamefilestore")
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001917892552"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001706920824 -1001815895604 -1001631700736 -1001709643066 -1001569843064"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
